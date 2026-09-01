@@ -67,4 +67,4 @@ things that tripped me up:
 ## My 4 CloudExify C++ projects
 Project 1:[Number Gessing Game](https://github.com/sanakousar108-a11y/cloudexify-cpp-p1-sanakousar)
 Project 2:[Student Record System](https://github.com/sanakousar108-a11y/cloudexify-cpp-p2-sanakousar)
-Project 3:[Simple Banking System]()
+Project 3:[Simple Banking System](https://github.com/sanakousar108-a11y/cloudexify-cpp-p3-sanakousar)
